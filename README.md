@@ -11,12 +11,13 @@ Site do projeto: http://www.juliodelima.com.br/taskit/
     -Instalar o eclipse ou outra ferramenta que desejar; 
 
 2 - Passos realizados:
-    - ClickSignIn
-    - DigitarLogin
-    - DigitarPassword
-    - ClicarSignIn
+    - Clicar no SignIn
+    - Digitar o Login
+    - Digitar o Password
+    - Clicar no SignIn
     - Clicar na Pagina "Me"
     - Clicar na aba "MoreDataAboutYou"
     - Clicar no Botão "AddMoreDataAboutYou"
     - AdicionarContato
+    - Validar que o contato foi salvo
    
