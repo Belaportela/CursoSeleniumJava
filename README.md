@@ -1,4 +1,4 @@
-# CursoUdemy
+# CursoUdemy (Selenium/Java/Junit)
 Esse projeto é parte de um curso do Julio de Lima "Automação de Testes com Selenium Webdriver em Java".
 Apresenta como adicionar informação do usuário, nesse caso o "Telefone". 
 
