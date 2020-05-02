@@ -9,6 +9,6 @@ Site do projeto: http://www.juliodelima.com.br/taskit/
     -Realizar o build do projeto Java - Maven 
     -Instalar o eclipse ou outra ferramenta que desejar; 
 
-2 - A informação adicionada do usuario -> Telefone
+2 - A informação adicionada no proejto -> Telefone do Usuário 
     -
    
