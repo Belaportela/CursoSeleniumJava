@@ -20,5 +20,5 @@ Site do projeto: http://www.juliodelima.com.br/taskit/
     -> Clicar na Pagina "Me"
     -> Clicar na aba "MoreDataAboutYou"
     -> Clicar no Botão "AddMoreDataAboutYou"
-    -> AdicionarContato
+    -> Adicionar o Contato
     -> Validar que o contato foi salvo
