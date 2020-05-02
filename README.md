@@ -7,7 +7,7 @@ Site do projeto: http://www.juliodelima.com.br/taskit/
  1- Instalação:
  
     -> Executar o projeto Java JDK;
-    -> Realizar o build do projeto Java - Maven 
+    -> Utilizar o Maven Project (Controle de dependências); 
     -> Instalar o eclipse ou outra ferramenta que desejar; 
 
 2 - Passos executados:
