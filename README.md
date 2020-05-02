@@ -5,17 +5,17 @@ Apresenta como adicionar informação do usuário, nesse caso o "Telefone".
 Site do projeto: http://www.juliodelima.com.br/taskit/
 
  1- Instalação:
-    	Executar o projeto Java JDK;
-    	Realizar o build do projeto Java - Maven 
-    	Instalar o eclipse ou outra ferramenta que desejar; 
+    -> Executar o projeto Java JDK;
+    -> Realizar o build do projeto Java - Maven 
+    -> Instalar o eclipse ou outra ferramenta que desejar; 
 
 2 - Passos executados:
-    	Clicar no SignIn
-    	Digitar o Login
-    	Digitar o Password
-    	Clicar no SignIn
-    	Clicar na Pagina "Me"
-    	Clicar na aba "MoreDataAboutYou"
-    	Clicar no Botão "AddMoreDataAboutYou"
-    	AdicionarContato
-    	 Validar que o contato foi salvo
+    -> Clicar no SignIn
+    -> Digitar o Login
+    -> Digitar o Password
+    -> Clicar no SignIn
+    -> Clicar na Pagina "Me"
+    -> Clicar na aba "MoreDataAboutYou"
+    -> Clicar no Botão "AddMoreDataAboutYou"
+    -> AdicionarContato
+    -> Validar que o contato foi salvo
